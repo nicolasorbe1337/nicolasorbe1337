@@ -18,6 +18,7 @@ Hello! 👋 I'm Nicolas Orbe, a passionate Frontend Software Engineer dedicated 
 
 - HTML5, CSS3, JavaScript (ES6+), TypeScript
 - Angular
+- Signals
 - Tailwindcss
 - Responsive Web Design
 - Version Control (Git)
